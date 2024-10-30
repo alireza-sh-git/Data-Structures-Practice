@@ -1,0 +1,14 @@
+E:\Coding\Data Structures\Practice\Part 1\Arrays and others\bin\Debug\net8.0\Arrays and others.exe
+E:\Coding\Data Structures\Practice\Part 1\Arrays and others\bin\Debug\net8.0\Arrays and others.deps.json
+E:\Coding\Data Structures\Practice\Part 1\Arrays and others\bin\Debug\net8.0\Arrays and others.runtimeconfig.json
+E:\Coding\Data Structures\Practice\Part 1\Arrays and others\bin\Debug\net8.0\Arrays and others.dll
+E:\Coding\Data Structures\Practice\Part 1\Arrays and others\bin\Debug\net8.0\Arrays and others.pdb
+E:\Coding\Data Structures\Practice\Part 1\Arrays and others\obj\Debug\net8.0\Arrays and others.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Data Structures\Practice\Part 1\Arrays and others\obj\Debug\net8.0\Arrays and others.AssemblyInfoInputs.cache
+E:\Coding\Data Structures\Practice\Part 1\Arrays and others\obj\Debug\net8.0\Arrays and others.AssemblyInfo.cs
+E:\Coding\Data Structures\Practice\Part 1\Arrays and others\obj\Debug\net8.0\Arrays and others.csproj.CoreCompileInputs.cache
+E:\Coding\Data Structures\Practice\Part 1\Arrays and others\obj\Debug\net8.0\Arrays and others.dll
+E:\Coding\Data Structures\Practice\Part 1\Arrays and others\obj\Debug\net8.0\refint\Arrays and others.dll
+E:\Coding\Data Structures\Practice\Part 1\Arrays and others\obj\Debug\net8.0\Arrays and others.pdb
+E:\Coding\Data Structures\Practice\Part 1\Arrays and others\obj\Debug\net8.0\Arrays and others.genruntimeconfig.cache
+E:\Coding\Data Structures\Practice\Part 1\Arrays and others\obj\Debug\net8.0\ref\Arrays and others.dll

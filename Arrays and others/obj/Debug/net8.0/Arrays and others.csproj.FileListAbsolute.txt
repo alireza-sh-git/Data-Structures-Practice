@@ -12,3 +12,4 @@ E:\Coding\Data Structures\Practice\Part 1\Arrays and others\obj\Debug\net8.0\ref
 E:\Coding\Data Structures\Practice\Part 1\Arrays and others\obj\Debug\net8.0\Arrays and others.pdb
 E:\Coding\Data Structures\Practice\Part 1\Arrays and others\obj\Debug\net8.0\Arrays and others.genruntimeconfig.cache
 E:\Coding\Data Structures\Practice\Part 1\Arrays and others\obj\Debug\net8.0\ref\Arrays and others.dll
+E:\Coding\Data Structures\Practice\Part 1\Arrays and others\obj\Debug\net8.0\Arrays and others.sourcelink.json
